@@ -1,2 +1,2 @@
-# minecraft_python
-minecraft_python
+# Initial page
+
