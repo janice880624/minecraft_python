@@ -2,7 +2,7 @@
 
 {% page-ref page="download.md" %}
 
-{% page-ref page="zhong-sheng-dian.md" %}
+{% page-ref page="rebirth.md" %}
 
 * mc.setSpawnPoint\(\)
 * mc.say\(\)

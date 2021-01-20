@@ -4,7 +4,7 @@ description: 每一個方塊都有自己專屬的身分證
 
 # 身分證
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%283%29%20%281%29.png)
 
 ```python
 from CBMC import *
