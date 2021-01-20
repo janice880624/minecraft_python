@@ -1,5 +1,7 @@
 # minecraft\_python
 
+{% page-ref page="download.md" %}
+
 {% page-ref page="zhong-sheng-dian.md" %}
 
 * mc.setSpawnPoint\(\)
